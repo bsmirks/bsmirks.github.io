@@ -10,7 +10,7 @@ I'm a Software Engineer who loves creating tools and automation. My favorite kin
 
 ### What I'm working on
 
-This list includes stuff I'm doing at work to, just keep in mind that I can't be super specific about it.
+This list includes stuff I'm doing at work too, just keep in mind that I can't be super specific about it.
 
 #### Personal
 
