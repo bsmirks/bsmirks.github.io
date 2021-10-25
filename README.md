@@ -12,24 +12,29 @@ I'm a Software Engineer who loves creating tools and automation. My favorite kin
 
 This list includes stuff I'm doing at work to, just keep in mind that I can't be super specific about it.
 
-- Personal
-  - [Dotfiles](https://github.com/bsmirks/dotfiles) - After getting my development machine's dotfiles into version control, I need to document what software is included, how to use it, etc.
-    - Switched my [Neovim](https://neovim.io/) `init.vim` to [`init.lua`](https://github.com/bsmirks/dotfiles/blob/main/symlinks/nvim/.config/nvim/init.lua) 
-  - [Manypacks](https://github.com/bsmirks/manypacks) - A container image that includes several tools required to be able to create packages for various operating systems.
-  - LaTeX - I'm currently in the process of writing and formatting my resume in [LaTeX](). Temporarily a private repository.
-  - Profesional development - Creating [this website](https://github.com/bsmirks/bsmirks.github.io) and expanding it with GitHub Pages.
-- Professional
-  - Golang - Writing a command line tool that abstracts the complexity of several internal self-service automation and is designed to save server administrators time.
-  - Python/API - Created an API that hosts endpoints for some internal self service automation across a couple of different products and use cases.
-  - Workflow - Working on evaluating and expanding tools I use in my development workflow. For example, I'm switching from using [Docker](https://www.docker.com/) to [Podman](https://podman.io/).
+#### Personal
+
+- [Dotfiles](https://github.com/bsmirks/dotfiles) - After getting my development machine's dotfiles into version control, I need to document what software is included, how to use it, etc.
+  - Switched my [Neovim](https://neovim.io/) `init.vim` to [`init.lua`](https://github.com/bsmirks/dotfiles/blob/main/symlinks/nvim/.config/nvim/init.lua) 
+- [Manypacks](https://github.com/bsmirks/manypacks) - A container image that includes several tools required to be able to create packages for various operating systems.
+- LaTeX - I'm currently in the process of writing and formatting my resume in [LaTeX](). Temporarily a private repository.
+- Profesional development - Creating [this website](https://github.com/bsmirks/bsmirks.github.io) and expanding it with GitHub Pages.
+
+#### Professional
+
+- Golang - Writing a command line tool that abstracts the complexity of several internal self-service automation and is designed to save server administrators time.
+- Python/API - Created an API that hosts endpoints for some internal self service automation across a couple of different products and use cases.
+- Workflow - Working on evaluating and expanding tools I use in my development workflow. For example, I'm switching from using [Docker](https://www.docker.com/) to [Podman](https://podman.io/).
 
 ### Contributions
 
 I like open source and configuration management, so I try to contribute back with knowledge I've gained from experience and by help squash bugs.
 
 - [Submitted a PR](https://github.com/puppetlabs/pxp-agent/pull/783) and contributed to the [Puppet Execution Protocol](https://github.com/puppetlabs/pxp-agent) code base by fixing a bug that affected Linux (SLES) Puppet agents.
-- Author, [Automating Puppet at scale with Bolt and the node_manager module](https://puppet.com/blog/automating-puppet-scale-bolt-and-nodemanager-module/), _**Puppet Blogs**_
-- Panelist, [Continuous Delivery for PE](https://www.youtube.com/watch?v=M5HVcevwAdE&list=PLV86BgbREluXpEPnW_Bb4kgZAlGit4EnW&index=41), _**Puppetize Digital 2020**_
+
+- Author, [Automating Puppet at scale with Bolt and the node_manager module](https://puppet.com/blog/automating-puppet-scale-bolt-and-nodemanager-module/), _Puppet Blogs_
+
+- Panelist, [Continuous Delivery for PE](https://www.youtube.com/watch?v=M5HVcevwAdE&list=PLV86BgbREluXpEPnW_Bb4kgZAlGit4EnW&index=41), _Puppetize Digital 2020_
 
 ### Contact me
 
