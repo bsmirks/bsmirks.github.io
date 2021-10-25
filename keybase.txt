@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bsmirks
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bsmirks.github.io
+  * I am bsmirks (https://keybase.io/bsmirks) on keybase.
+  * I have a public key ASAfCJAnPDStKW8TBNZcDj-l020GcsMQxQfT8zmZX9erzQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010a95bc6172a474b1059cb7a9ab7cc9a13727ae5163f3c6aee11606cbc09e9b970a",
+      "host": "keybase.io",
+      "kid": "01201f0890273c34ad296f1304d65c0e3fa5d36d0672c310c507d3f339995fd7abcd0a",
+      "uid": "23df70b9f82686a4f943eb6931b53f19",
+      "username": "bsmirks"
+    },
+    "merkle_root": {
+      "ctime": 1635126751,
+      "hash": "0bdffeeacdad4c30bba1ba8793792a403e91e826e85203cc29f626fc6d6155129183c2aff9542a9d0452e0da93d234f79344d57e043b52a1dc2b0eabb2e43558",
+      "hash_meta": "ac02a9f3330cfa3a36df095e560673ec500fc5c164a2a0aa76f3fc05418e32c3",
+      "seqno": 21055991
+    },
+    "service": {
+      "entropy": "B7WqHrwhsiQ6ctiiOgylsQJH",
+      "hostname": "bsmirks.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.0"
+  },
+  "ctime": 1635126764,
+  "expire_in": 504576000,
+  "prev": "25b74674f2cb6bd2d64f0ef8470e7ef052faca8402ba423b813e72896899c3ed",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHwiQJzw0rSlvEwTWXA4/pdNtBnLDEMUH0/M5mV/Xq80Kp3BheWxvYWTESpcCCMQgJbdGdPLLa9LWTw74Rw5+8FL6yoQCukI7gT5yiWiZw+3EIDzTpIlOBZ8Oi0S8kBKHWBpuq47e6LgWSbcoYv1o28VpAgHCo3NpZ8RAK5z7GZ1zIqWpqG/TbjjDvVxgHy8sNPQmLQFIfUNrqXJx1EnJN8HFlgGAW/CMUJwC1ladUrgcfcNq8Cew3a0GCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEII9GcAREhUNamIIRJLhN4O++es0xbGbxmRgwBkD4X39No3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bsmirks
+
+==================================================================
