@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Blake Smreker
 
-You can use the [editor on GitHub](https://github.com/bsmirks/bsmirks.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a Software Engineer who loves creating tools and automation. My favorite kind of result is when my product improves people's workflow, automates something new, or accomplishes something in an efficient manner.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- I spend a lot of my time in a terminal or VSCode
+- I am currently a Software Engineer III on the Configuration Management team at Walmart, Inc.
+- I love configuration management
+- I love documentation
+- My long term goal is to create a free open source configuration management tool
 
-### Markdown
+### What I'm working on
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This list includes stuff I'm doing at work to, just keep in mind that I can't be super specific about it.
 
-```markdown
-Syntax highlighted code block
+- Personal
+  - [Dotfiles](https://github.com/bsmirks/dotfiles) - After getting my development machine's dotfiles into version control, I need to document what software is included, how to use it, etc.
+    - Switched my [Neovim](https://neovim.io/) `init.vim` to [`init.lua`](https://github.com/bsmirks/dotfiles/blob/main/symlinks/nvim/.config/nvim/init.lua) 
+  - [Manypacks](https://github.com/bsmirks/manypacks) - A container image that includes several tools required to be able to create packages for various operating systems.
+  - LaTeX - I'm currently in the process of writing and formatting my resume in [LaTeX](). Temporarily a private repository.
+  - Profesional development - Creating [this website](https://github.com/bsmirks/bsmirks.github.io) and expanding it with GitHub Pages.
+- Professional
+  - Golang - Writing a command line tool that abstracts the complexity of several internal self-service automation and is designed to save server administrators time.
+  - Python/API - Created an API that hosts endpoints for some internal self service automation across a couple of different products and use cases.
+  - Workflow - Working on evaluating and expanding tools I use in my development workflow. For example, I'm switching from using [Docker](https://www.docker.com/) to [Podman](https://podman.io/).
 
-# Header 1
-## Header 2
-### Header 3
+### Contributions
 
-- Bulleted
-- List
+I like open source and configuration management, so I try to contribute back with knowledge I've gained from experience and by help squash bugs.
 
-1. Numbered
-2. List
+- [Submitted a PR](https://github.com/puppetlabs/pxp-agent/pull/783) and contributed to the [Puppet Execution Protocol](https://github.com/puppetlabs/pxp-agent) code base by fixing a bug that affected Linux (SLES) Puppet agents.
+- Author, [Automating Puppet at scale with Bolt and the node_manager module](https://puppet.com/blog/automating-puppet-scale-bolt-and-nodemanager-module/), _**Puppet Blogs**_
+- Panelist, [Continuous Delivery for PE](https://www.youtube.com/watch?v=M5HVcevwAdE&list=PLV86BgbREluXpEPnW_Bb4kgZAlGit4EnW&index=41), _**Puppetize Digital 2020**_
 
-**Bold** and _Italic_ and `Code` text
+### Contact me
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bsmirks/bsmirks.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- E-mail - bsmreker1@icloud.com
+- My public PGP key - [`510A 5DFE 55C0 0D50`](https://keybase.io/bsmirks/pgp_keys.asc)
