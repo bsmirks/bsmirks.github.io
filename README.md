@@ -26,14 +26,11 @@ This list includes stuff I'm doing at work too, just keep in mind that I can't b
 - Python/API - Created an API that hosts endpoints for some internal self service automation across a couple of different products and use cases.
 - Workflow - Working on evaluating and expanding tools I use in my development workflow. For example, I'm switching from using [Docker](https://www.docker.com/) to [Podman](https://podman.io/).
 
-### Contributions
+#### Open source contributions
 
-I like open source and configuration management, so I try to contribute back with knowledge I've gained from experience and by help squash bugs.
-
-- [Submitted a PR](https://github.com/puppetlabs/pxp-agent/pull/783) and contributed to the [Puppet Execution Protocol](https://github.com/puppetlabs/pxp-agent) code base by fixing a bug that affected Linux (SLES) Puppet agents.
-
+- GitHub
+  - [Contributed to](https://github.com/puppetlabs/pxp-agent/pull/783) the [Puppet Execution Protocol](https://github.com/puppetlabs/pxp-agent) code base
 - Author, [Automating Puppet at scale with Bolt and the node_manager module](https://puppet.com/blog/automating-puppet-scale-bolt-and-nodemanager-module/), _Puppet Blogs_
-
 - Panelist, [Continuous Delivery for PE](https://www.youtube.com/watch?v=M5HVcevwAdE&list=PLV86BgbREluXpEPnW_Bb4kgZAlGit4EnW&index=41), _Puppetize Digital 2020_
 
 ### Contact me
