@@ -16,6 +16,7 @@ This list includes stuff I'm doing at work too, just keep in mind that I can't b
 
 - [Dotfiles](https://github.com/bsmirks/dotfiles) - After getting my development machine's dotfiles into version control, I need to document what software is included, how to use it, etc.
   - Switched my [Neovim](https://neovim.io/) `init.vim` to [`init.lua`](https://github.com/bsmirks/dotfiles/blob/main/symlinks/nvim/.config/nvim/init.lua).
+- Lua - Along the same line as above, I have been learning Lua and getting stronger with NeoVim in order to attempt to make my own package manager for NeoVim.
 - [Manypacks](https://github.com/bsmirks/manypacks) - A container image that includes several tools required to be able to create packages for various operating systems.
 - LaTeX - I'm currently in the process of writing and formatting my resume in [LaTeX](https://www.latex-project.org/). Temporarily a private repository.
 - Profesional development - Creating [this website](https://github.com/bsmirks/bsmirks.github.io) and expanding it with GitHub Pages.
